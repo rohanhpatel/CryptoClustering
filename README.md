@@ -1,2 +1,2 @@
 # CryptoClustering
-Northwestern Data Science Bootcamp HW19 - Unsupervised Learning
+Crypto_Clustering.ipynb is where all the code is located.
